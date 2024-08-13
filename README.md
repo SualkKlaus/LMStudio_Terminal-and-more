@@ -1,8 +1,8 @@
 English Text below!
 
-Dies hier wird ein fertiges Projekt von mir, um eine Llm privat auf einem grafischem Terminal als Clieent einfach und dennoch komfortabel zu bedienen.
-Damit kann man sowohl LMStudio als Server, als auchandere gehostete Modelle, wie z.B von von NVIDIA auf deren Cloud, über das Terminal, bedienen. 
-Ich habe viel Zeit in das Projekt investiert. Es ist ein Python Programm mit welches relativ viel  Kompfort bietet.
+Dies hier wird ein fertiges Projekt von mir, um eine Llm privat auf einem grafischem Terminal als Client einfach und dennoch komfortabel zu bedienen.
+Damit kann man sowohl LMStudio als Server, als auch andere gehostete Modelle, wie z.B von von NVIDIA auf deren Cloud, über das Terminal bedienen. 
+Ich habe viel Zeit in das Projekt investiert. Es ist ein Python Programm  welches relativ viel  Kompfort bietet.
 Allerdings werde ich es in ein .exe file wandeln, um Diebstahl zu verhindern. Bei Nachfrage werde ich es auch für Linux Oberflächen kompilieren.
 Ich habe dieses Terminal (GUI) entwickelt, weil ich überhaupt nichts vernünftiges fand, mit dem man in sauberer Struktur mit einer KI 
 kommunizieren kann, - ausser die Oberfläche von LMStudio selbst. Diese aber möchte man ja vielleicht auf einem leistungsfähigen Desktop Rechner 
