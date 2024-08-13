@@ -1,3 +1,5 @@
+English Text below!
+
 Dies hier wird ein fertiges Projekt von mir, um eine Llm privat auf einem grafischem Terminal als Clieent einfach und dennoch komfortabel zu bedienen.
 Damit kann man sowohl LMStudio als Server, als auchandere gehostete Modelle, wie z.B von von NVIDIA auf deren Cloud, über das Terminal, bedienen. 
 Ich habe viel Zeit in das Projekt investiert. Es ist ein Python Programm mit welches relativ viel  Kompfort bietet.
@@ -16,6 +18,7 @@ ES wird zwar nicht "open source" sein, - dafür habe ich zu viel Zeit investiert
 
 Viele Grüsse, Klaus
 
+English Text:
 This is a finished project of mine to operate an LLM privately on a graphical terminal as a client in a simple yet comfortable manner.
 With this, you can use both LM Studio as a server and other hosted models, such as those from NVIDIA on their cloud, via the terminal.
 I've invested a lot of time in this project. It's a Python program that offers a relatively high level of comfort.
