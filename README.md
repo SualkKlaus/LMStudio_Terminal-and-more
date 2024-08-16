@@ -18,6 +18,15 @@ ES wird zwar nicht "open source" sein, - dafür habe ich zu viel Zeit investiert
 
 Viele Grüsse, Klaus
 
+*********************************************
+This is Cloud Adress for Download Programm: https://drive.google.com/file/d/15EIDvhpzmDDAQq3FS3xVLHjNDJCjjUOu/view?usp=sharing
+https://drive.google.com/file/d/15EIDvhpzmDDAQq3FS3xVLHjNDJCjjUOu/view?usp=sharing
+
+Hope you enjoy it
+
+Klaus
+*********************************************
+
 English Text:
 This is a finished project of mine to operate an LLM privately on a graphical terminal as a client in a simple yet comfortable manner.
 With this, you can use both LM Studio as a server and other hosted models, such as those from NVIDIA on their cloud, via the terminal.
